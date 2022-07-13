@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ginwan Elgasim
 - 👀 I’m interested in web development & data science
-- 🌱 I’m currently learning python django framework and working on small projects
+- 🌱 I’m currently working on small project using reactjs and nodejs
 - 💞️ I’m looking to collaborate on data science and web project
 - 📫 How to reach me ginwan697@gmail.com
 
