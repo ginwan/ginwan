@@ -3,7 +3,6 @@
 **Frontend Developer with 5+ years of experience**  
 Building modern, scalable, and user-focused web applications with clean UI and strong performance.
 
----
 
 ## 🚀 About Me
 - Frontend Developer actively looking for new opportunities  
@@ -11,8 +10,8 @@ Building modern, scalable, and user-focused web applications with clean UI and s
 - Passionate about clean code, performance, and user experience
 - Enjoy collaborating with other developers and learning new technologies
 
----
 
+## 💻 Tools & Technologies
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
@@ -39,7 +38,7 @@ Building modern, scalable, and user-focused web applications with clean UI and s
 - Node.js, Python, C
 - AWS, Docker
 
----
+
 
 ## 🤖 Currently Learning
 - Building **AI-powered applications** and integrating AI into real-world products
@@ -49,6 +48,4 @@ Building modern, scalable, and user-focused web applications with clean UI and s
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ginwan-elgasim/)
 - 🌐 Portfolio: [Your Portfolio Website](https://ginwan-portfolio.vercel.app/)
 
----
 
-⭐️ Feel free to explore my repositories and connect — always happy to collaborate!
