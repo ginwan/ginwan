@@ -26,27 +26,11 @@ Building modern, scalable, and user-focused web applications with clean UI and s
 
 ## 🤖 Currently Learning
 - Building **AI-powered applications** and integrating AI into real-world products
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ginwan&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginwan&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ginwan" />
-</p>
-
----
+  
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ginwan-elgasim/)
-- 🌐 Portfolio: [Your Portfolio Website]([PORTFOLIO_URL](https://ginwan-portfolio.vercel.app/))
+- 🌐 Portfolio: [Your Portfolio Website](https://ginwan-portfolio.vercel.app/)
 
 ---
 
