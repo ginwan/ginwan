@@ -30,11 +30,8 @@ Building modern, scalable, and user-focused web applications with clean UI and s
 
 
 ## 🧠 Tech Stack
-**Frontend**
 - React, Next.js, TypeScript, JavaScript
 - HTML5, CSS3, Tailwind CSS
-
-**Backend & Cloud**
 - Node.js, Python, C
 - AWS, Docker
 
