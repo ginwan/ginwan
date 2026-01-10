@@ -45,7 +45,7 @@ Building modern, scalable, and user-focused web applications with clean UI and s
   
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ginwan-elgasim/)
-- 🌐 Portfolio: [Your Portfolio Website](https://ginwan-portfolio.vercel.app/)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ginwan-elgasim/)
+- 🌐 Portfolio: [My Portfolio Website](https://ginwan-portfolio.vercel.app/)
 
 
